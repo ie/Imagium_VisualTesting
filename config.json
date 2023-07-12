@@ -1,0 +1,6 @@
+{
+    "jsonFilePaths": [
+      "../dev.json",
+      "../uat.json"
+    ]
+  }
